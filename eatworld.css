@@ -7,10 +7,6 @@
 body {
     color: #354a50;
 }
-/* body p {
-    padding: 0em 1em;
-    font-size: large;
-} */
 
 header {
     color: #354a50;
@@ -31,9 +27,7 @@ nav {
     padding: 2px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-bottom: 1em;
-    /* looksie */
     position: relative;
-    /* look at that guy above */
 }
 nav a {
     text-decoration: none;
@@ -162,10 +156,8 @@ td {
 }
 
 .center {
-    /* display: block; */
     margin-left: auto;
     margin-right: auto;
-    /* width: 50%; */
 }
 
 video {
@@ -298,7 +290,6 @@ figure:hover {
         flex-direction: column;
         flex: 1;
         padding: 1em;
-        /* padding: 0em 1em; */
         margin: 2em;
         border: 2px solid #354a50;
     }
