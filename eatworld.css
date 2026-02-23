@@ -235,6 +235,12 @@ figure:hover {
     border-bottom: 1px solid #fc764d;
 }
 
+#introtext {
+    text-align: center;
+    font-size: larger;
+    margin: 1em 2em;
+}
+
 #cutlerygraphic {
     height: 75px;
     width: 100%;
