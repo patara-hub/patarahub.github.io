@@ -185,6 +185,13 @@ video {
     margin: auto;
 }
 
+.postimg {
+    height: 200px;
+    width: 300px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
 figure {
     position: relative;
     z-index: 1;
@@ -248,29 +255,6 @@ figure:hover {
     background-repeat: repeat-x;
 }
 
-#cafelalibelaimg {
-    height: 200px;
-    width: 300px;
-    background-image: url(cafelalibelaimg.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-#allpierogiimg {
-    height: 200px;
-    width: 300px;
-    background-image: url(allpierogiimg.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-#mochifreshimg {
-    height: 200px;
-    width: 300px;
-    background-image: url(mochifreshimg.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
 
 @media (min-width: 1000px) {
     h2 {
